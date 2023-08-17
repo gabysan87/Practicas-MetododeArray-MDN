@@ -1,5 +1,7 @@
 // El concat() 
 // método de Array instancias se utiliza para fusionar dos o más matrices. Este método no cambia las matrices existentes, sino que devuelve una nueva matriz.
+
+// Resumen
 // Une matrices y devuelve una matriz con las matrices unidas
 
 const array1 = ['a', 'b', 'c'];

@@ -1,6 +1,7 @@
 // El entries() método de Array 
 // instancias devuelve un nuevo objeto iterador de matriz que contiene los pares clave/valor para cada índice de la matriz.
 
+// Resumen
 // Devuelve un objeto de iteración de matriz de par clave/valor
 
 const a = ["a", "b", "c"];

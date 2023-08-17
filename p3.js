@@ -1,6 +1,7 @@
 // El copyWithin()
 // método de Array instancias superficiales copia parte de esta matriz a otra ubicación en la misma matriz y devuelve esta matriz sin modificar su longitud.
 
+// Resumen
 // Copia elementos de matriz dentro de la matriz, hacia y desde posiciones especificadas
 
 const array1 = ['a', 'b', 'c', 'd', 'e'];
