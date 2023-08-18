@@ -13,6 +13,8 @@ console.log(array1.copyWithin(0, 3, 4));
 
 // Copy to index 1 all elements from index 3 to the end
 // Copie en el índice 1 todos los elementos desde el índice 3 hasta el final
-console.log(array1.copyWithin(1, 4));
+console.log(array1.copyWithin(1, 3));
 
 console.log(array1.copyWithin(1, 2));
+console.log(array1.copyWithin(1, 2));
+
