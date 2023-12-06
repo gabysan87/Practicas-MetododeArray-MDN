@@ -3,7 +3,7 @@
 // Resumen
 // Busca en la matriz un elemento, comenzando por el final, y devuelve su posición
 
-const animals = ['Dodo', 'Tiger', 'Penguin', 'Dodo'];
+const animals = ['Dodo', 'Tiger', 'Penguin', "Tiger",'Dodo'];
 
 console.log(animals.lastIndexOf('Dodo'));
 // Expected output: 3

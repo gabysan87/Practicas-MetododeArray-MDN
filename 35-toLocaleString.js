@@ -1,4 +1,4 @@
-// El toLocaleString()método de Arrayinstancias devuelve una cadena que representa los elementos de la matriz. Los elementos se convierten en cadenas utilizando sus toLocaleStringmétodos y estas cadenas están separadas por una cadena específica de la configuración regional (como una coma ",").
+// El toLocaleString()método de Arrayinstancias devuelve una cadena que representa los elementos de la matriz. Los elementos se convierten en cadenas utilizando sus toLocaleString métodos y estas cadenas están separadas por una cadena específica de la configuración regional (como una coma ",").
 
 // Resumen
 // toLocaleString() devuelve una fecha como una cadena, utilizando la configuración regional

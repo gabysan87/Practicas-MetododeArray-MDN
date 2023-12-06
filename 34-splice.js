@@ -1,4 +1,4 @@
-// El splice()método de Arrayinstancias cambia el contenido de una matriz eliminando o reemplazando elementos existentes y/o agregando nuevos elementos en su lugar .
+// El splice()método de Array instancias cambia el contenido de una matriz eliminando o reemplazando elementos existentes y/o agregando nuevos elementos en su lugar .
 
 
 // Resumen
@@ -15,7 +15,7 @@ console.log(fruits)
 
 // En la posición 2, elimine 2 elementos:
 const fruits2 = ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
-fruits2.splice(2, 2);
+fruits2.splice(2, 1);
 
 console.log(fruits2)
 
